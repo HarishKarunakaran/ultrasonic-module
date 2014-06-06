@@ -1,12 +1,6 @@
 import processing.serial.*;
 
-/* The following Processing Sketch was created by ScottC on
- the 10 Nov 2012 : http://arduinobasics.blogspot.com/
- 
- Inspired by this Processing sketch by Daniel Shiffman:
- http://processing.org/learning/basics/sinewave.html
- 
-*/
+
 import processing.serial.*;
 
 
